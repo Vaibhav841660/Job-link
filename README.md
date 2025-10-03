@@ -35,17 +35,5 @@ This project was inspired by the need for a seamless platform that connects job 
 - **Database**: [MySQL / MongoDB ]  
 - **Hosting**: [Netlify]  
 
-## Screenshots  
 
-### Homepage  
-![Homepage](images/image1.jpg)  
-
-### Signup Page  
-![Signup Page](images/image2.jpg)  
-
-### Job Hunt  
-![Job Hunt](images/image3.jpg)  
-
-### Apply to job
-![Job Hunt](images/image4.jpg)  
 
